@@ -50,7 +50,7 @@ class _SigninPageState extends State<SigninPage> {
                   imagepath: 'asset/Phone_svg.png',
                   sizeofbtn: 25),
               SizedBox(
-                height: 15,
+                height: 13,
               ),
               Padding(
                 padding: const EdgeInsets.only(bottom: 15),
